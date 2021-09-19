@@ -36,3 +36,6 @@ db.once('open', () => {
     console.log(`Use GraphQL at http://localhost:${PORT}${server.graphqlPath}`);
   });
 });
+
+const seeds = require("./config/seeds.js");
+console.log(seeds);
