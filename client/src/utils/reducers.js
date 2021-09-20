@@ -1,3 +1,4 @@
+// Logic for reducer functions to update the global state variable
 import { useReducer } from "react";
 import {
   UPDATE_PRODUCTS,

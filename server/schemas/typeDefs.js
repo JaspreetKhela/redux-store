@@ -1,3 +1,4 @@
+// Type definitions for schema
 const { gql } = require('apollo-server-express');
 
 const typeDefs = gql`

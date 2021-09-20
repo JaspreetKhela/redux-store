@@ -1,3 +1,4 @@
+// Create data store object
 import { createStore } from 'redux'
 import reducers from './app/reducers/reducers'
 

@@ -1,3 +1,4 @@
+// Define mutations using graphql
 import gql from 'graphql-tag';
 
 export const LOGIN = gql`

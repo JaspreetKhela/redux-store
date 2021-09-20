@@ -1,3 +1,4 @@
+// Category schema and model definitions
 const mongoose = require('mongoose');
 
 const { Schema } = mongoose;

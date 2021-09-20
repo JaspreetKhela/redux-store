@@ -1,3 +1,4 @@
+// Client-side logic to execute on page load
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

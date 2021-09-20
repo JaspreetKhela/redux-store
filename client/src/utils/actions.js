@@ -1,3 +1,4 @@
+// Define actions for triggering reducer functions for the global store object's data
 export const UPDATE_PRODUCTS = "UPDATE_PRODUCTS";
 
 export const ADD_TO_CART = "ADD_TO_CART";

@@ -1,3 +1,4 @@
+// Define graphql queries for retrieving data from the server's database
 import gql from 'graphql-tag';
 
 export const QUERY_PRODUCTS = gql`

@@ -1,3 +1,4 @@
+// Seed data for the database
 const db = require('./connection');
 const { User, Product, Category } = require('../models');
 
