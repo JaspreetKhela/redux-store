@@ -1,3 +1,4 @@
+// Define logic for a deadend url
 import React from "react";
 import Jumbotron from "../components/Jumbotron";
 

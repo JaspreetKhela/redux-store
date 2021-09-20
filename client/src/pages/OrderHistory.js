@@ -1,3 +1,4 @@
+// Define logic for the order history page
 import React from 'react';
 import { Link } from 'react-router-dom';
 

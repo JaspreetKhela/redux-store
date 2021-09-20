@@ -1,3 +1,4 @@
+// Define logic for the delete button
 import React from "react";
 
 // The ...props means, spread all of the passed props onto this element

@@ -1,3 +1,4 @@
+// Define logic for the jumbotron
 import React from "react";
 
 function Jumbotron({ children }) {

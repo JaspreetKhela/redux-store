@@ -1,3 +1,4 @@
+// Define logic for a cart item
 import React from 'react';
 import { removeCart, updateCartQuantity } from '../../app/actions/actions';
 import { idbPromise } from "../../utils/helpers";

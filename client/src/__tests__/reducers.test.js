@@ -1,3 +1,4 @@
+// Testing actions on the global state object
 import { reducer } from '../utils/reducers';
 import {
   UPDATE_PRODUCTS,

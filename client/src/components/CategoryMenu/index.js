@@ -1,3 +1,4 @@
+// Define logic for the category menu buttons
 import React, { useEffect } from 'react';
 import { updateCategories, updateCurrentCategory } from '../../app/actions/actions';
 import { useQuery } from '@apollo/client';

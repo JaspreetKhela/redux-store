@@ -1,3 +1,4 @@
+// Define logic for home page
 import React from "react";
 import ProductList from "../components/ProductList";
 import CategoryMenu from "../components/CategoryMenu";

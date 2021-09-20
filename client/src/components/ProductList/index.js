@@ -1,3 +1,4 @@
+// Define logic for product lists
 import React, { useEffect } from 'react';
 import { useQuery } from '@apollo/client';
 

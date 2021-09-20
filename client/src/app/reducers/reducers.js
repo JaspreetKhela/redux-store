@@ -1,3 +1,4 @@
+// Define logic for the reducer functions that write a new global state object
 import {
     UPDATE_PRODUCTS,
     UPDATE_CATEGORIES,

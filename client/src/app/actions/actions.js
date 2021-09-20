@@ -1,3 +1,4 @@
+// Defining actions that can be performed on the global state object
 import { 
     UPDATE_PRODUCTS,
     UPDATE_CATEGORIES,
