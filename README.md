@@ -25,7 +25,6 @@ Please visit the deployment link above.
 To use this application, please visit the deployment link above.
 
 **Screenshots**:
-![Screen Shot 2021-09-19 at 9 33 03 PM (2)](https://user-images.githubusercontent.com/80941606/133951733-b3268838-95e1-40e4-8028-daf72b7ed84f.png)
 ![Screen Shot 2021-09-19 at 10 18 26 PM (2)](https://user-images.githubusercontent.com/80941606/133951738-b49d44ce-e72d-456f-bcdf-4dd79c098f28.png)
 ![Screen Shot 2021-09-19 at 10 18 44 PM (2)](https://user-images.githubusercontent.com/80941606/133951743-f20078bb-8034-44d3-a4f8-12934b4dc98e.png)
 ![Screen Shot 2021-09-19 at 10 18 51 PM (2)](https://user-images.githubusercontent.com/80941606/133951750-9afcfff1-3446-4207-9bbe-22497efe8229.png)
